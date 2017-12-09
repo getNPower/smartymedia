@@ -1,0 +1,21 @@
+#field_row{
+    margin-top: 100px;
+}
+
+#btn_delete, #btn_add{
+    float: right;
+}
+
+#field_row > form > button {
+    float: right;
+}
+
+#error{
+    font-size: 40px;
+    text-transform: capitalize;
+    color: #ff0000;
+}
+
+.hide_text{
+    display: none;
+}
